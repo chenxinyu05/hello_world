@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "__bit_reference": "cpp",
+        "set": "cpp",
+        "unordered_map": "cpp",
+        "string": "cpp",
+        "iostream": "cpp"
+    }
+}
